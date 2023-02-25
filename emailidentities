@@ -1,0 +1,13 @@
+[General]
+Default Identity=1476549330
+
+[Identity #0]
+Default Domain=johnma-mac
+Disable Fcc=false
+Identity=johnma
+Image Location=
+Inline Signature=
+Name=johnma
+Override Encryption Defaults=true
+Signature Enabled=false
+uoid=1476549330

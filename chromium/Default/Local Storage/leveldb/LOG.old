@@ -1,0 +1,26 @@
+2023/02/24-11:14:19.662 3 Reusing MANIFEST /home/johnma/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/24-11:14:19.663 3 Recovering log #91
+2023/02/24-11:14:19.663 3 Reusing old log /home/johnma/.config/chromium/Default/Local Storage/leveldb/000091.log 
+2023/02/24-11:17:47.089 5 Level-0 table #97: started
+2023/02/24-11:17:47.091 5 Level-0 table #97: 45937 bytes OK
+2023/02/24-11:17:47.091 5 Delete type=0 #91
+2023/02/24-11:17:50.257 5 Level-0 table #99: started
+2023/02/24-11:17:50.258 5 Level-0 table #99: 61729 bytes OK
+2023/02/24-11:17:50.259 5 Delete type=0 #96
+2023/02/24-11:18:28.046 5 Level-0 table #101: started
+2023/02/24-11:18:28.048 5 Level-0 table #101: 52802 bytes OK
+2023/02/24-11:18:28.049 5 Delete type=0 #98
+2023/02/24-11:19:36.638 5 Level-0 table #103: started
+2023/02/24-11:19:36.639 5 Level-0 table #103: 63521 bytes OK
+2023/02/24-11:19:36.640 5 Delete type=0 #100
+2023/02/24-11:19:36.641 5 Compacting 4@0 + 2@1 files
+2023/02/24-11:19:36.676 5 Generated table #104@0: 128 keys, 2383062 bytes
+2023/02/24-11:19:36.678 5 Generated table #105@0: 44 keys, 45255 bytes
+2023/02/24-11:19:36.678 5 Compacted 4@0 + 2@1 files => 2428317 bytes
+2023/02/24-11:19:36.678 5 compacted to: files[ 0 2 1 0 0 0 0 ]
+2023/02/24-11:19:36.679 5 Delete type=2 #97
+2023/02/24-11:19:36.679 5 Delete type=2 #99
+2023/02/24-11:19:36.679 5 Delete type=2 #103
+2023/02/24-11:19:36.679 5 Delete type=2 #93
+2023/02/24-11:19:36.679 5 Delete type=2 #94
+2023/02/24-11:19:36.679 5 Delete type=2 #101

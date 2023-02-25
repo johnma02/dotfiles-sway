@@ -1,0 +1,6 @@
+2023/02/24-11:28:34.877 3 Reusing MANIFEST /home/johnma/.config/chromium/Default/Local Storage/leveldb/MANIFEST-000001
+2023/02/24-11:28:34.877 3 Recovering log #102
+2023/02/24-11:28:34.878 3 Reusing old log /home/johnma/.config/chromium/Default/Local Storage/leveldb/000102.log 
+2023/02/24-11:29:53.144 5 Level-0 table #108: started
+2023/02/24-11:29:53.146 5 Level-0 table #108: 45029 bytes OK
+2023/02/24-11:29:53.147 5 Delete type=0 #102

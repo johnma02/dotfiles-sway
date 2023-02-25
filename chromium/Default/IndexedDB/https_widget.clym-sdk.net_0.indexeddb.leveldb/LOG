@@ -1,0 +1,6 @@
+2023/02/23-22:22:22.764 62dc Creating DB /home/johnma/.config/chromium/Default/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb since it was missing.
+2023/02/23-22:22:22.764 62dc Reusing MANIFEST /home/johnma/.config/chromium/Default/IndexedDB/https_widget.clym-sdk.net_0.indexeddb.leveldb/MANIFEST-000001
+2023/02/23-23:14:15.065 62dc Level-0 table #5: started
+2023/02/23-23:14:15.066 62dc Level-0 table #5: 4990 bytes OK
+2023/02/23-23:14:15.067 62dc Delete type=0 #3
+2023/02/23-23:14:15.067 62dc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

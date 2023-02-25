@@ -1,0 +1,11 @@
+[activities]
+532eaff5-e4de-4624-87ca-1735e7b78239=Default
+564981e8-db28-4401-84c8-c34dba5b0e20=\sbrowser
+fd5ee96c-2c9d-47e5-b128-4dff8dfaac7e=term
+
+[activities-icons]
+564981e8-db28-4401-84c8-c34dba5b0e20=activities
+fd5ee96c-2c9d-47e5-b128-4dff8dfaac7e=activities
+
+[main]
+currentActivity=564981e8-db28-4401-84c8-c34dba5b0e20

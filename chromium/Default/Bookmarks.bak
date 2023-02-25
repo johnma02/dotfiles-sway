@@ -1,0 +1,52 @@
+{
+   "checksum": "03a7adb1e02880319679b7318dfa955e",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13295671602000000",
+            "date_last_used": "13321720994064392",
+            "guid": "1d443bb7-59f2-4260-8784-f95f3a3ba4cd",
+            "id": "6",
+            "name": "Dashboard",
+            "type": "url",
+            "url": "https://udel.instructure.com/"
+         }, {
+            "date_added": "13295671602000000",
+            "date_last_used": "0",
+            "guid": "135f062d-5dd8-4043-b56d-395d78163a2f",
+            "id": "7",
+            "name": "Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/u/1/?tgif=d"
+         } ],
+         "date_added": "13310345993422141",
+         "date_last_used": "0",
+         "date_modified": "13321690838436418",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13310345993422144",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13310345993422145",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

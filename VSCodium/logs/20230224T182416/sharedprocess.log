@@ -1,0 +1,3 @@
+2023-02-24 18:24:17.643 [info] Started initializing default profile extensions in extensions installation folder. file:///home/johnma/.vscode-oss/extensions
+2023-02-24 18:24:17.708 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/johnma/.vscode-oss/extensions
+2023-02-24 18:24:17.851 [info] Starting worker process with pid 5772 (type: fileWatcher, window: 1).

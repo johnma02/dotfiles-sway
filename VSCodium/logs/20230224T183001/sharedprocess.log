@@ -1,0 +1,21 @@
+2023-02-24 18:30:02.824 [info] Starting worker process with pid 6834 (type: fileWatcher, window: 1).
+2023-02-24 18:30:32.338 [info] Getting Manifest... teabyii.ayu
+2023-02-24 18:30:32.496 [info] Installing extension: teabyii.ayu
+2023-02-24 18:30:36.102 [info] Extracted extension to /home/johnma/.vscode-oss/extensions/.24d6b349-723f-43c6-a4fb-b009b253f472: teabyii.ayu
+2023-02-24 18:30:36.103 [info] Renamed to /home/johnma/.vscode-oss/extensions/teabyii.ayu-1.0.3-universal
+2023-02-24 18:30:36.104 [info] Extracting completed. teabyii.ayu
+2023-02-24 18:30:36.109 [info] Extension installed successfully: teabyii.ayu
+2023-02-24 18:32:56.916 [info] Starting worker process with pid 7065 (type: fileWatcher, window: 3).
+2023-02-24 18:32:59.291 [info] Worker process with pid 7065 terminated normally (type: fileWatcher, window: 3).
+2023-02-24 18:35:36.864 [info] Getting Manifest... dbaeumer.vscode-eslint
+2023-02-24 18:35:36.943 [info] Installing extension: dbaeumer.vscode-eslint
+2023-02-24 18:35:37.480 [info] Extracted extension to /home/johnma/.vscode-oss/extensions/.368d7e15-7fd4-49e4-be20-37807271b976: dbaeumer.vscode-eslint
+2023-02-24 18:35:37.484 [info] Renamed to /home/johnma/.vscode-oss/extensions/dbaeumer.vscode-eslint-2.4.0-universal
+2023-02-24 18:35:37.487 [info] Extracting completed. dbaeumer.vscode-eslint
+2023-02-24 18:35:37.495 [info] Extension installed successfully: dbaeumer.vscode-eslint
+2023-02-24 18:36:12.343 [info] Getting Manifest... asvetliakov.vscode-neovim
+2023-02-24 18:36:12.420 [info] Installing extension: asvetliakov.vscode-neovim
+2023-02-24 18:36:13.559 [info] Extracted extension to /home/johnma/.vscode-oss/extensions/.3b024345-6799-4e92-a71f-e02f3beb54df: asvetliakov.vscode-neovim
+2023-02-24 18:36:13.563 [info] Renamed to /home/johnma/.vscode-oss/extensions/asvetliakov.vscode-neovim-0.0.97-universal
+2023-02-24 18:36:13.564 [info] Extracting completed. asvetliakov.vscode-neovim
+2023-02-24 18:36:13.571 [info] Extension installed successfully: asvetliakov.vscode-neovim

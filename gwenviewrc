@@ -1,0 +1,22 @@
+[$Version]
+update_info=gwenview.upd:SideBar_StatusBar_Rename,gwenview.upd:ImageView_AlphaBackgroundMode_Update,gwenview.upd:DeleteThumbnailSetting_Rename
+
+[General]
+LastUsedVersion=210800
+
+[KFileDialog Settings]
+Places Icons Auto-resize=false
+Places Icons Static Size=32
+
+[MainWindow]
+MenuBar=Disabled
+None-1=None-1
+None-1 Window-Maximized 1707x1067 None-1=true
+None-1 XPosition 1707x1067 None-1=557
+None-1 YPosition 1707x1067 None-1=307
+State=AAAA/wAAAAD9AAAAAAAABnwAAAPhAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgEAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Pictures/Screenshot_20221015_180652-1.png
+Name1[$e]=Screenshot_20221015_180652-1.png
