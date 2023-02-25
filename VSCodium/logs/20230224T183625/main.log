@@ -4,3 +4,5 @@
 2023-02-24 18:36:55.952 [info] update#setState idle
 2023-02-24 18:43:42.193 [info] Extension host with pid 7722 exited with code: 0, signal: null.
 2023-02-24 18:43:42.778 [info] Starting extension host with pid 9461 (fork() took 4 ms).
+2023-02-24 19:36:55.771 [info] update#setState checking for updates
+2023-02-24 19:36:56.262 [info] update#setState idle
